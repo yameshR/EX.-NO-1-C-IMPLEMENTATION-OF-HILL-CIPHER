@@ -60,7 +60,7 @@ void HillCipher(char message[], char key[]) {
 }
 
 int main() {
-    char message[] = "HARSHA";
+    char message[] = "Yamesh R";
     char key[] = "GYBNQKURP";
 
     printf("Original Text: %s\n", message);
@@ -71,7 +71,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b5c44247-5d13-46a1-a439-3d81ac692275)
+![Screenshot 2024-08-28 160607](https://github.com/user-attachments/assets/34047819-0de4-4998-a425-5d43ceb38884)
 
 
 ## RESULT:
